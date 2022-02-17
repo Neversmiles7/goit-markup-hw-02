@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-https://neversmiles7.github.io/goit-markup-hw-01/
+# goit-markup-hw-02
+https://neversmiles7.github.io/goit-markup-hw-02/
