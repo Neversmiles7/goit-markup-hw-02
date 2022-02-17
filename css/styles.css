@@ -75,7 +75,7 @@ a {
 }
 
 .hero-button {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 16px;
   line-height: 30px;
   text-align: center;
@@ -94,10 +94,32 @@ a {
 }
 
 .advantage-name {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.142;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #212121;
+}
+
+.advantage-description {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+}
+
+/* Чем мы занимаемся */
+
+.job {
+  background-color: #ffffff;
+}
+
+.job-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.167;
+  text-align: center;
+  letter-spacing: 0.03em;
   color: #212121;
 }
