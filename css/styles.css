@@ -1,0 +1,103 @@
+/* Общее */
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #757575;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Логотип */
+
+.navigation-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.navigation-logo-accent {
+  color: #2196f3;
+}
+
+/* Навигация */
+
+.navigation-item {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.navigation-item:hover,
+.navigation-item:focus {
+  color: #2196f3;
+}
+
+/* Контакты */
+
+.header-contacts {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.header-contacts:hover,
+.header-contacts:focus {
+  color: #2196f3;
+}
+
+/* Герой */
+
+.hero {
+  background-color: #2f303a;
+}
+
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.363;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.hero-button {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+
+  background-color: #2196f3;
+
+  cursor: pointer;
+}
+
+/* Преимущества */
+
+.advantage {
+  background-color: #ffffff;
+}
+
+.advantage-name {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
